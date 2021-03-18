@@ -4,3 +4,5 @@ Quadratic Autoencoder implementation in TF and performance comparison with linea
 Use the implementation provided in the ipython notebook (.ipynb)
 
 Implementations using native python code is under development 
+
+This is Dani's first commit
